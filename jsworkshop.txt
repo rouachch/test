@@ -1,0 +1,54 @@
+outputs:
+-------------
+script inside or with src
+clg , confirm ,alert
+put the confirm inside a var and then console log it , shows true or false
+prompt , put it in a var
+what is a var ?
+---------
+datatypes :
+---------
+string , number , boolean ,undefined (declare a var without a value) , null (exist without a value )
+
+---------------
+extensions :
+es7 (clg) , nfn(arrow function ) , quokka (run the console inside vs)+ start on current file , tabnine (predict what u want to write)
+--------------
+operators:
++-*/%
++= -= *= /= ++ -- 
+<> <= >= 
+= == != === !==  (2=='2' et 2===='2')
+|| &&
+-------------------------
+array : 
+array contain everything , access to array 
+push , pop , shift ,unshift (array.push("added"))
+array.splice(,)
+--------------------------------
+if statement :
+
+var kk
+if kk else
+if kk else if else
+
+add or and  (when testing two variables)
+-----------------
+switch  :
+explain why we add break in here
+----------------
+var kk=hh
+kk=jjj ? clg hh :  clg nnn
+-------------------
+
+loops : for while while do
+
+
+
+
+
+
+
+
+
+
